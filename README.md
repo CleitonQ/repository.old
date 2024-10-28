@@ -4,13 +4,15 @@ COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull reques
 
 Caminho dos arquivos: C:\Github\repository
 
+git clone https://github.com/CleitonQ/repository.git
+
 git init
  
 git branch -M "main"
  
 git remote add origin https://github.com/CleitonQ/repository.git
 
-git clone https://github.com/CleitonQ/repository.git
+
 
 git push -u origin main
 
