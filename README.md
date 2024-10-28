@@ -12,6 +12,8 @@ git remote add origin https://github.com/CleitonQ/repository.git
 
 git branch -M "main"
 
+git clone git@github.com:leocomelli/curso-git.git
+
 git pull
 
 git push -u origin main
