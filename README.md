@@ -8,5 +8,5 @@ git push -u origin main
 
 git config --global user.email "cleitonqueirozc@gmail.com"
 
- git config --global user.name "admrede"
+ git config --global user.name "CleitonQ"
 
