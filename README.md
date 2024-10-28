@@ -8,15 +8,15 @@ git clone https://github.com/CleitonQ/repository.git
 
 git init
  
-git branch -M "main"
- 
 git remote add origin https://github.com/CleitonQ/repository.git
 
-
+git branch -M "main"
 
 git push -u origin main
 
+git commit -m "Update 27102024 1"
+
 git config --global user.email "cleitonqueirozc@gmail.com"
 
- git config --global user.name "CleitonQ"
+git config --global user.name "CleitonQ"
 
