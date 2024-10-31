@@ -7,6 +7,8 @@ Caminho dos arquivos: C:\Github\repository
 git clone https://github.com/CleitonQ/repository.git
 
 git init
+
+git add .
  
 git remote add origin https://github.com/CleitonQ/repository.git
 
