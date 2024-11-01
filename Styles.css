@@ -33,3 +33,20 @@ li{
     transition: .5s;
     font-family: 'Kdam Thmor Pro', sans-serif;
 }
+
+li:hover {
+    color:chocolate;
+}
+
+#logo {
+    width: 150px;
+    height: auto;
+}
+
+#banner {
+    background-image: url('https://blogs.loucoll.ac.uk/learningtechnology/files/2022/11/Microsoft-Banner-smaller.jpg');
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
