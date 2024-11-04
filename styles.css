@@ -3,7 +3,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: blanchedalmond;
     list-style: none;
     text-decoration: none;
 }
@@ -134,5 +134,24 @@ li:hover {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    
+    padding: 0 0 20px 10px;
+    color: #fff;
+    font-size: 17px;
+    font-family:'Kdam Thmor Pro', sans-serif;  
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.banner1 {
+    background-image: url('https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5fOvR?ver=f0a9');
+}
+
+.banner2 {
+    background-image: url('https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/oficinadosbits/media/uploads/produtos/foto/ygkmrcdw/file.png');
+}
+
+.banner3 {
+    background-image: url('https://dcdn.mitiendanube.com/stores/003/016/288/products/microsoft_365_apps_for_business_spp-00005_1_-457bf2b9b00edfe6c816935124869499-640-0.jpg');
 }
